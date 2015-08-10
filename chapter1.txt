@@ -1,0 +1,15 @@
+1.0 	The way of the program.
+	The single most important skill for a computer scientist is problem solving. 
+	
+1.1	The Python programming language.
+	Python is a high-level language like C, C++, Perl, Java. 
+	Low-level language is machine language or assembly language.
+	Interpreters and compliers required to process high-level language.
+	Interpreter: Source code —> Interpreter —> Output
+	Compiler: Source code —> Compiler —> Object code —> Executor —> Output
+	The Chevron “>>>” is prompt to indicate “ready” type 1+1 to get interpreted 2
+	Python script ends with .py
+	Interpreter is only good for a few lines. Anything more needs to be a script.
+	
+1.2	What is a program.
+
