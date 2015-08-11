@@ -1,0 +1,13 @@
+Chapter 2 Variables, expressions and statements.
+
+2.1	Values and types
+	Value: 1, 2, ‘Hello, World!’
+	Type: 2 is integer, ‘Hello, World!’ is a string (identified with quotation marks).
+		>>> type(‘Hello, World!’)
+		<class ‘str’>
+		>>> type(17)
+		<class ‘int’>	-denotes integer (no decimal point)	
+		>>> type(3.2)
+		<class ‘float’>	-denotes floating points (with decimal point)
+
+skip to chapter 3
