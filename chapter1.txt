@@ -40,4 +40,6 @@
 	Formal language are designed by people for specific application. i.e.:Mathematic
 	Programming languages are formal language that have been designed to express computation
 	
+anything after 1.4 seems pretty useless
+Skip to Chapter 2
 
